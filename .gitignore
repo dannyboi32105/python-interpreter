@@ -1,0 +1,45 @@
+# Compiled source files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Executables
+*.out
+*.exe
+*.elf
+*.bin
+
+# Libraries
+*.a
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Build folders
+/build/
+/bin/
+/dist/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
